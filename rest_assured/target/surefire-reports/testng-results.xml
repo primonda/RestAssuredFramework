@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-27T16:02:26 IST" name="Suite" finished-at="2020-01-27T16:02:28 IST" duration-ms="2607">
+    <groups>
+    </groups>
+    <test started-at="2020-01-27T16:02:26 IST" name="Test" finished-at="2020-01-27T16:02:28 IST" duration-ms="2607">
+      <class name="test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04]" started-at="2020-01-27T16:02:26 IST" name="setUp" finished-at="2020-01-27T16:02:26 IST" duration-ms="197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[module_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[api_aaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeClassSetup()[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04]" started-at="2020-01-27T16:02:26 IST" name="beforeClassSetup" finished-at="2020-01-27T16:02:26 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method signature="test()[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04]" started-at="2020-01-27T16:02:26 IST" name="test" finished-at="2020-01-27T16:02:28 IST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04]" started-at="2020-01-27T16:02:28 IST" name="afterMethod" finished-at="2020-01-27T16:02:28 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=SucessFunctionalValidations.test()[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations@15d9bc04]" started-at="2020-01-27T16:02:28 IST" name="afterClass" finished-at="2020-01-27T16:02:29 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

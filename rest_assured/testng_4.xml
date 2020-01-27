@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <!-- <class name="java.libraries.Setup"/> -->
+      <class name="rest_assured.src.test.test_cases.module_001.api_aaa.functional_validations.SucessFunctionalValidations"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
